@@ -2,6 +2,8 @@
 # Project Overview   
 In this project, we will be performing exploratory data analysis on the dataset for the 2021-22 English Premier League season to find insights about player and team statistics.
 
+![alt text](https://github.com/osamabg1999/epl_2021_2022/blob/main/winner.jpg?raw=true)
+
 **Project Steps**
 - Import relevant libraries
 - Download and import dataset
